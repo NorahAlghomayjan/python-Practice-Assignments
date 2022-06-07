@@ -18,3 +18,7 @@ print(fave_food1.count("s"))
 print(fave_food1.capitalize())
 print(fave_food1.upper())
 print(fave_food1.split("h"))
+my_list = [1,2,3,4]
+my_list = my_list[1:2]
+# print(my_list[1:2])
+print(my_list)
